@@ -1,0 +1,10 @@
+■GitHubの使い方？
+http://techacademy.jp/magazine/6235
+
+■PBのサイトの画像URLには規則性がある。
+
+■画像ダウンロードのために調べたこと
+・指定アドレスにジャンプする
+http://www.tohoho-web.com/js/location.htm#Jump
+
+・
