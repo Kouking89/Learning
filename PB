@@ -1,6 +1,9 @@
 ■GitHubの使い方？
 http://techacademy.jp/magazine/6235
 
+■Chromeコンソール
+http://blog.akagi.jp/archives/2297.html
+
 ■PBのサイトの画像URLには規則性がある。
 
 ■画像ダウンロードのために調べたこと
