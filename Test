@@ -1,3 +1,13 @@
+javascript:(
+  function(){
+    var d=document;
+    var s=d.createElement('script');
+    s.src='http://cpro.jp/dq10/skillsimulator/bookmarklet/hiroba-status.js';
+    d.getElementsByTagName('head')[0].appendChild(s);
+  }
+)();
+
+
 function download(url, name){
     var a = document.createElement('a');
     a.href = url;
